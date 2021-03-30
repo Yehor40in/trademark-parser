@@ -1,0 +1,16 @@
+{
+    "name": "yehorsorokin/scrapper",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yehor Sorokin",
+            "email": "yehorsorokin@icloud.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
